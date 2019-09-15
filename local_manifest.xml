@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+    <!-- local -->
+    <project path="device/asus/X00Q" name="Imajkej/device_asus_zenfone_X00Q" remote="github" revision="master" />
+    <project path="kernel/asus/sdm660" name="Imajkej/kernel_asus_zenfone_X00Q" remote="github" revision="master" />
+    <project path="vendor/asus/X00Q" name="Imajkej/vendor_asus_zenfone_X00QD" remote="github" revision="master" />
+</manifest>
